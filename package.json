@@ -7,7 +7,7 @@
     "react-dom": "^16.2.0",
     "react-scripts": "1.0.17"
   },
-  "homepage": "https://mgarcia707.github.io/personal-website",
+  "homepage": "https://michaeljosephgarcia.com",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
