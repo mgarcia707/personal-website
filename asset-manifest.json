@@ -1,9 +1,13 @@
 {
-  "main.css": "static/css/main.ad44d9af.css",
-  "main.css.map": "static/css/main.ad44d9af.css.map",
-  "main.js": "static/js/main.3f7025ed.js",
-  "main.js.map": "static/js/main.3f7025ed.js.map",
+  "main.css": "static/css/main.8a2fe0bf.css",
+  "main.css.map": "static/css/main.8a2fe0bf.css.map",
+  "main.js": "static/js/main.96d31c69.js",
+  "main.js.map": "static/js/main.96d31c69.js.map",
+  "static\\media\\binary.svg": "static/media/binary.9b1859df.svg",
+  "static\\media\\bulb.svg": "static/media/bulb.84ce5a1f.svg",
+  "static\\media\\earth.svg": "static/media/earth.b785e583.svg",
   "static\\media\\gear.svg": "static/media/gear.8c3d3092.svg",
   "static\\media\\michael.jpg": "static/media/michael.d43ed7fa.jpg",
-  "static\\media\\solarsys.svg": "static/media/solarsys.c93a60cd.svg"
+  "static\\media\\penpaper.svg": "static/media/penpaper.860889a5.svg",
+  "static\\media\\programming.svg": "static/media/programming.e6a31bc2.svg"
 }
