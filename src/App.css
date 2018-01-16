@@ -16,17 +16,12 @@
 .App-header {
   background-color: #222;
   height: 200px;
-  padding: 20px;
+  padding-top: 5px;
   color: white;
 }
 
 .App-title {
   font-size: 1.5em;
-}
-
-.App-title2 {
-  font-size: 1.5em;
-  padding-bottom: 500%;
 }
 
 .App-intro {
