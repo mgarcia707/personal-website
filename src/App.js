@@ -12,7 +12,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
         <h1> Welcome! </h1>
-        <h1 className="App-title">I am currently a Programmer Analyst located
+        <h1 className="App-title">I am currently an Application Developer working
           in Santa Cruz, California. </h1>
         <h1 className="App-title">  I received my Bachelor's in Computer
          Science from the University of California, Santa Cruz. </h1>
