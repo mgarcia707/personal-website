@@ -1,11 +1,49 @@
+// App.jsx
+
 import React, { Component } from 'react';
-//import logo from './logo.svg';
+import './App.css';
+import { Layout, Header, Navigation, Drawer, Content } from 'react-mdl';
+import { Link } from 'react-router-dom'; 
 import gear from './gear.svg';
 import michael from './michael.jpg';
 import programming from './programming.svg';
+import Main from './components/main';
 
 import './App.css';
 
+class App extends Component {
+  render() {
+    return (
+      <div className="demo-big-content">
+    <Layout>
+        <Header className="header-color" title="Title" scroll>
+            <Navigation>
+              <Link to="/">Home</Link>
+              <Link to="/resume">Resume</Link>
+              <Link to="/about">About Me</Link>
+              <Link to="/projects">Projects</Link>
+              <Link to="/contact">Contact</Link>
+            </Navigation>
+        </Header>
+        <Drawer title="Title">
+            <Navigation>
+              <Link to="/resume">Resume</Link>
+              <Link to="/about">About Me</Link>
+              <Link to="/projects">Projects</Link>
+              <Link to="/contact">Contact</Link>
+            </Navigation>
+        </Drawer>
+        <Content>
+            <div className="page-content" />
+            <Main/>
+        </Content>
+    </Layout>
+</div>
+    );
+  }
+}
+
+/*
 class App extends Component {
   render() {
     return (
@@ -24,5 +62,6 @@ class App extends Component {
     );
   }
 }
+*/
 
 export default App;

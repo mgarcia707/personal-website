@@ -5,6 +5,7 @@ body {
   text-align: center;
 }
 
+/*
 nav {
   background-color: #222;
 }
@@ -21,7 +22,6 @@ nav {
     display: inline-block;
     margin: 0;
     padding: 0;
-    /* For IE, the outcast */
     zoom:1;
     *display: inline;
 }
@@ -39,3 +39,4 @@ nav {
   background-color: #000000;
   padding: 14%;
 }
+*/
