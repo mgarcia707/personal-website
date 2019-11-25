@@ -1,8 +1,11 @@
 {
-  "main.css": "static/css/main.3fdda6b5.css",
-  "main.css.map": "static/css/main.3fdda6b5.css.map",
-  "main.js": "static/js/main.1ff9e29e.js",
-  "main.js.map": "static/js/main.1ff9e29e.js.map",
+  "main.css": "static/css/main.ed5ee0da.css",
+  "main.css.map": "static/css/main.ed5ee0da.css.map",
+  "main.js": "static/js/main.99248ad7.js",
+  "main.js.map": "static/js/main.99248ad7.js.map",
+  "pdfjsWorker.js": "static/js/pdfjsWorker.b27fdbbf.chunk.js",
+  "pdfjsWorker.js.map": "static/js/pdfjsWorker.b27fdbbf.chunk.js.map",
+  "static\\media\\Michael_J_Garcia_Software Developer.pdf": "static/media/Michael_J_Garcia_Software Developer.e63cce41.pdf",
   "static\\media\\gear.svg": "static/media/gear.8c3d3092.svg",
   "static\\media\\michael.jpg": "static/media/michael.d43ed7fa.jpg",
   "static\\media\\programming.svg": "static/media/programming.e6a31bc2.svg"
