@@ -31,21 +31,26 @@ class Landing extends Component {
               <a href="https://github.com/mgarcia707" rel="noopener noreferrer" target="_blank">
                 <i className="fa fa-github-square" aria-hidden="true" />
               </a>
+
+              {/* Github */}
+              <a href="mailto: garciajosephmichael@gmail.com" rel="noopener noreferrer" target="_blank">
+                <i className="fa fa-envelope" aria-hidden="true" />
+              </a>
     
-              {/* Freecodecamp */}
+              {/* Freecodecamp
               <a href="http://google.com" rel="noopener noreferrer" target="_blank">
                 <i className="fa fa-free-code-camp" aria-hidden="true" />
               </a>
     
-              {/* Youtube */}
+               Youtube 
               <a href="http://google.com" rel="noopener noreferrer" target="_blank">
                 <i className="fa fa-youtube-square" aria-hidden="true" />
               </a>
+              */}
     
             </div>
                 </div>
               </Cell>
-              <h2 className="construction"> Under Construction!</h2>
             </Grid>
           </div>
         )
