@@ -44,7 +44,7 @@ class Projects extends Component {
               </Card>
               {/* Project 3 */}
               <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-                <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'}} ></CardTitle>
+                <CardTitle style={{color: '#fff', height: '176px',  background: 'url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTF2xvEgvlD3W1ZJ7Z4YbTDwAouaIuJS9N79Uu3zOovijakvS9v) center / cover'}} ></CardTitle>
                 <CardText>
                   My portfolio website built with React!
                 </CardText>
