@@ -19,7 +19,7 @@ class Landing extends Component {
     
                 <hr/>
     
-              <p>HTML/CSS | Bootstrap | JavaScript | React | NodeJS | ASP.NET MVC | MS SQL</p>
+              <p> .NET Framework & .NET Core | React | JavaScript | HTML & CSS | MS SQL</p>
     
             <div className="social-links">
     
@@ -33,22 +33,16 @@ class Landing extends Component {
                 <i className="fa fa-github-square" aria-hidden="true" />
               </a>
 
-              {/* Github */}
+              {/* Gmail */}
               <a href="mailto: garciajosephmichael@gmail.com" rel="noopener noreferrer" target="_blank">
                 <i className="fa fa-envelope" aria-hidden="true" />
               </a>
     
-              {/* Freecodecamp
-              <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-                <i className="fa fa-free-code-camp" aria-hidden="true" />
+              {/* Devpost*/}
+              <a href="https://devpost.com/mgarcia707?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" rel="noopener noreferrer" target="_blank">
+                <i className="fa fa-trophy" aria-hidden="true" />
               </a>
-    
-               Youtube 
-              <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-                <i className="fa fa-youtube-square" aria-hidden="true" />
-              </a>
-              */}
-    
+              
             </div>
                 </div>
               </Cell>

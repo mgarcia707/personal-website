@@ -22,7 +22,9 @@ class App extends Component {
               <Link to="/resume">Resume</Link>
               <Link to="/about">About Me</Link>
               <Link to="/projects">Projects</Link>
-              {/*<Link to="/contact">Contact</Link>*/}
+              {/*<Link to="/contact">Contact</Link>
+              <Link to="/ctf">CTF</Link>
+              */}
             </Navigation>
         </Header>
         <Drawer title="">
@@ -31,7 +33,9 @@ class App extends Component {
               <Link to="/resume">Resume</Link>
               <Link to="/about">About Me</Link>
               <Link to="/projects">Projects</Link>
-              {/*<Link to="/contact">Contact</Link>*/}
+              {/*<Link to="/contact">Contact</Link>
+              <Link to="/ctf">CTF</Link>
+              */}
             </Navigation>
         </Drawer>
         <Content>

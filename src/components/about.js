@@ -28,7 +28,8 @@ class About extends Component {
                 showmsg: 'shows a message',
                 alert: 'alert', popup: 'alert'
                 }}
-                msg='Hello! My name is Michael Garcia. I am a Software Developer located in San Jose.'
+                msg='Hello and welcome to my portfolio page! My name is Michael Garcia and
+                I am a Software Developer located in the San Francisco Bay Area (:'
             />
             </div>
         )

@@ -165,7 +165,7 @@
 }
 
 .banner-text hr {
-  border-top: 5px dotted white;
+  border-top: 5px inset white;
   width: 50%;
   margin: auto;
 }

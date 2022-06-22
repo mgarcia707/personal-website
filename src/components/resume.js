@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Document, Page } from 'react-pdf';
 import './resume.css';
-import resume from './Michael_J_Garcia_Software Developer.pdf';
+import resume from './michael-j-garcia-software-developer.pdf';
 //pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
 class Resume extends Component {
